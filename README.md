@@ -1,19 +1,138 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saveliev Vadim
-======================================================================================================================================
+<h1 align="center">Привет 👋, Я Вадим (Saverof)</h1>
+<h3 align="center">ML Engineer из России, увлеченный NLP и Generative AI</h3>
 
-I am C/C++ Programmer
----------------------
+<p align="center">
+  <a href="https://t.me/saverof">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+   <a href="mailto:developersaveliev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-I have been programming for more than 7 years, I started with C/C++ and am still studying it to this day. During my studies at the university, I also tried Java, C#, and Assembly. During the study period I developed: 1. A program that analyzes network traffic. 2. A program that allows you to display the Cornu spiral with various parameters, here I became acquainted with graphical interfaces. 3. During pre-graduation practice, I created an application for user authentication using a photo of the palm of the hand. 4. As a thesis, I created an application that determines the license plate number and make of a car from a photo. Subsequently, I got a job at AO "LEPSE" as a software engineer in the CAD bureau (computer-aided production system) in which I work to this day, during the period of work I created a system for processing the storage of signatures, and immediately gained practice in working with the Microsoft SQL Server DBMS and the system Git, I’m currently writing a handler that allows me to create PDF files with the necessary data, client-server data transfer, and I also trained a student and helped users. I love programming and working on interesting problems. As a hobby, I am interested in video games, board games, mastering the Unreal Engine, and also studying literature and articles to improve my professional skills in the C/C++ language. Completed advanced training courses in working with data, “Data Modeling: Practical Immersion in Data.”
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF7F7&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Specializing+in+NLP+and+RAG;Generative+AI+Enthusiast" alt="Typing SVG" /></a>
+</p>
 
-*   🌍  I'm based in Kirov
-*   ✉️  You can contact me at [developersaveliev@gmail.com](mailto:developersaveliev@gmail.com)
-*   🧠  I'm learning ML engineer
-   ### Skills 
+---
+
+```python
+class ML_Engineer:
+    def __init__(self):
+        self.skills = {
+            "languages": ["Python", "C++", "SQL"],
+            "ml_frameworks": ["PyTorch", "Keras", "TensorFlow", "Hugging Face"],
+            "production": ["Docker", "FastAPI", "Yandex Cloud"],
+            "specialties": ["LLM", "RAG Systems", "Generative Models"]
+        }
+        
+    def introduce(self):
+        return "Разрабатываю промышленные ML-решения с фокусом на NLP и GenAI!"
+    
+me = ML_Engineer()
+```
+
+### 👨‍💻 Обо мне
+
+Инженер машинного обучения с опытом промышленной разработки на C++ и специализацией в ML. Создаю и внедряю end-to-end решения в области NLP и генеративного ИИ. Увлечен разработкой интеллектуальных систем, которые решают реальные проблемы.
+
+- 🔭 В настоящее время работаю над **портфолио** (переношу и дополняю проекты)
+- 🌱 Активно изучаю **разработку production-ready ML решений**
+- 👯 Открыт к сотрудничеству по **open-source проектам в области MLOps**
+- 💬 Всегда рад обсудить **архитектурные решения для ML-систем**
+- ⚡ Интересный факт: имею 7-летний опыт **высокопроизводительной разработки на C++**
+
+---
+
+### 🛠 Технологический стек
+
+#### **Машинное обучение & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD43B?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Async](https://img.shields.io/badge/Async-5C2D91?style=flat-square&logo=asyncapi&logoColor=white)
+
+#### **Обработка естественного языка**
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-000000?style=flat-square)
+
+#### **Базы данных & Хранилища**
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B00?style=flat-square)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+#### **Бэкенд & Инфраструктура**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-FF0000?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+#### **Языки программирования**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+---
+
+### 🚀 Избранные проекты
+
+#### 🤖 [RAG Assistant for Streamers](https://colab.research.google.com/drive/15DaazzS3YreIXfUecWG-8F8TaqxjMTNk?usp=drive_link)
+> Кастомная RAG-система с русскоязычной моделью Saiga2 и оптимизированным семантическим поиском
+> 
+> **Стек:** `Python` `Saiga2 7B` `ChromaDB` `LaBSE` `FastAPI` `LangChain`
+> 
+> **Особенности:** Двухэтапный поиск, Knowledge Maps, борьба с галлюцинациями
+
+#### 🎨 [VAE-StyleGAN Hybrid Generator](https://colab.research.google.com/drive/1hU9d7LN1YQWt2w6TcFbyAWkecWNDUlwm?usp=drive_link)
+> Гибридный генератор изображений, объединяющий стабильность VAE и качество генерации StyleGAN
+> 
+> **Стек:** `PyTorch` `TensorFlow` `OpenCV` `NumPy`
+> 
+> **Особенности:** Обучение на WikiArt, кастомный пайплайн аугментации
+
+#### 💬 [Multi-Platform AI Chat](https://github.com/Saverof/AIChatFlutter)
+> Кроссплатформенное приложение для работы с 50+ LLM через OpenRouter API
+> 
+> **Стек:** `FastAPI` `React` `WebSockets` `OpenRouter API` `SQLite`
+> 
+> **Особенности:** История диалогов, кеширование, аналитика использования
+
+#### 💻 [AI-Powered PC Configurator](https://colab.research.google.com/drive/1i0AxiReyLXTw_PMn8G7IRLHCTd4td0Qr?usp=drive_link)
+> ML-рекомендательная система для подбора комплектующих ПК
+> 
+> **Стек:** `Scikit-learn` `Flask` `Pandas` `JavaScript`
+> 
+> **Особенности:** Бинарная классификация, feature engineering
+
+---
+
+### 📈 Активность
+
+<!-- Здесь можно добавить кастомную визуализацию или оставить пустым -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saverof&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Код — это поэзия, а алгоритмы — её ритм</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saverof?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Work-1F8FF0?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Work"/>
+  </a>
+</p>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                    </p>
-                    
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/saverof" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Saverof" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+   <a href="https://github.com/Saverof">
+    <img src="https://komarev.com/ghpvc/?username=Saverof&label=Profile%20views&color=0e75b6&style=flat" alt="Saverof profile views" />
+  </a>
+</p>

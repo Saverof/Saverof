@@ -99,14 +99,14 @@ me = ML_Engineer()
 #### 💬 [Multi-Platform AI Chat](https://github.com/Saverof/AIChatFlutter)
 > Кроссплатформенное приложение для работы с 50+ LLM через OpenRouter API
 > 
-> **Стек:** `FastAPI` `React` `WebSockets` `OpenRouter API` `SQLite`
+> **Стек:** `FastAPI` `WebSockets` `OpenRouter API` `SQLite` `Dart`
 > 
 > **Особенности:** История диалогов, кеширование, аналитика использования
 
 #### 💻 [AI-Powered PC Configurator](https://colab.research.google.com/drive/1i0AxiReyLXTw_PMn8G7IRLHCTd4td0Qr?usp=drive_link)
 > ML-рекомендательная система для подбора комплектующих ПК
 > 
-> **Стек:** `Scikit-learn` `Flask` `Pandas` `JavaScript`
+> **Стек:** `Scikit-learn` `Flask` `Pandas`
 > 
 > **Особенности:** Бинарная классификация, feature engineering
 

@@ -43,7 +43,7 @@ public:
     };
     
     std::string introduce() {
-        return "Senior C++ Engineer | High-load systems, Performance Optimization, Production ML Integration";
+        return "C++ Engineer | High-load systems, Performance Optimization, Production ML Integration";
     }
 };
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vadim (Saverof)</h1>
+<h1 align="center">Hi, I'm Vadim (Saverof)</h1>
 <h3 align="center">C++ Engineer from Russia, passionate about ML, NLP, Generative AI, and Gamedev</h3>
 
 <p align="center">
@@ -49,7 +49,7 @@ public:
 
 CPP_Engineer me;
 ```
-### 🛠 Stack
+### Stack
 
 #### **AI**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -116,7 +116,7 @@ CPP_Engineer me;
 
 ---
 
-### 📈 Activity
+### Activity
 
 <!-- Здесь можно добавить кастомную визуализацию -->
 

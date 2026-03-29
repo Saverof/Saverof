@@ -27,7 +27,7 @@ class ML_Engineer:
         }
         
     def introduce(self):
-        return "Разрабатываю промышленные ML-решения с фокусом на NLP и GenAI!"
+        return "I develop industrial ML solutions with a focus on NLP and GenAI!"
     
 me = ML_Engineer()
 ```

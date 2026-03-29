@@ -1,5 +1,5 @@
-<h1 align="center">Привет 👋, Я Вадим (Saverof)</h1>
-<h3 align="center">C++ Engineer из России, увлеченный ML, NLP, Generative AI и Gamedev</h3>
+<h1 align="center">Hi 👋, I'm Vadim (Saverof)</h1>
+<h3 align="center">C++ Engineer from Russia, passionate about ML, NLP, Generative AI, and Gamedev</h3>
 
 <p align="center">
   <a href="https://t.me/saverof">
@@ -20,7 +20,7 @@
 class ML_Engineer:
     def __init__(self):
         self.skills = {
-            "languages": ["Python", "C++", "SQL"],
+            "languages": ["Python", "SQL"],
             "ml_frameworks": ["PyTorch", "Keras", "TensorFlow", "Hugging Face"],
             "production": ["Docker", "FastAPI", "Yandex Cloud"],
             "specialties": ["LLM", "RAG Systems", "Generative Models"]
@@ -36,7 +36,7 @@ me = ML_Engineer()
 class CPP_Engineer {
 public:
     std::map<std::string, std::vector<std::string>> skills = {
-        {"languages", {"C++11/14/17/20", "Python", "SQL"}},
+        {"languages", {"C++11/14/17/20/23", "SQL"}},
         {"frameworks", {"OpenCV", "Npcap", "STL/Boost"}},
         {"specialties", {"High-Performance Systems", "Computer Vision", "Algorithm Optimization"}},
         {"achievements", {"6x performance gain", "+25% legacy code efficiency", "Production Deployment"}}
@@ -49,22 +49,9 @@ public:
 
 CPP_Engineer me;
 ```
+### 🛠 Stack
 
-### 👨‍💻 Обо мне
-
-Инженер машинного обучения с опытом промышленной разработки на C++ и специализацией в ML. Создаю и внедряю end-to-end решения в области NLP и генеративного ИИ. Увлечен разработкой интеллектуальных систем, которые решают реальные проблемы.
-
-- 🔭 В настоящее время работаю над **портфолио**
-- 🌱 Активно изучаю **разработку production-ready ML решений** и **разработку на Unreal Engine**
-- 👯 Открыт к сотрудничеству по **open-source проектам**
-- 💬 Всегда рад обсудить **архитектурные решения в представленных выше областях**
-- ⚡ Всегда готов к изучению нового, **стремлюсь к высокопроизводительной разработке на C++**
-
----
-
-### 🛠 Технологический стек
-
-#### **Машинное обучение & AI**
+#### **AI**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD43B?style=flat-square)
@@ -73,24 +60,24 @@ CPP_Engineer me;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Async](https://img.shields.io/badge/Async-5C2D91?style=flat-square&logo=asyncapi&logoColor=white)
 
-#### **Обработка естественного языка**
+#### **NLP**
 ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=flat-square)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-000000?style=flat-square)
 
-#### **Базы данных & Хранилища**
+#### **Data base**
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B00?style=flat-square)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-#### **Бэкенд & Инфраструктура**
+#### **Backend**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-FF0000?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-#### **Языки программирования**
+#### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -98,41 +85,40 @@ CPP_Engineer me;
 
 ---
 
-### 🚀 Избранные проекты
 
-#### 🤖 [RAG Assistant for Streamers](https://colab.research.google.com/drive/15DaazzS3YreIXfUecWG-8F8TaqxjMTNk?usp=drive_link)
-> Кастомная RAG-система с русскоязычной моделью Saiga2 и оптимизированным семантическим поиском
-> 
-> **Стек:** `Python` `Saiga2 7B` `ChromaDB` `LaBSE` `FastAPI` `LangChain`
-> 
-> **Особенности:** Двухэтапный поиск, Knowledge Maps, борьба с галлюцинациями
+#### [RAG Assistant for Streamers](https://colab.research.google.com/drive/15DaazzS3YreIXfUecWG-8F8TaqxjMTNk?usp=drive_link)
+> Custom RAG system with Russian-language model Saiga2 and optimized semantic search
+>
+> **Stack:** `Python` `Saiga2 7B` `ChromaDB` `LaBSE` `FastAPI` `LangChain`
+>
+> **Features:** Two-stage search, Knowledge Maps, hallucination mitigation
 
-#### 🎨 [VAE-StyleGAN Hybrid Generator](https://colab.research.google.com/drive/1hU9d7LN1YQWt2w6TcFbyAWkecWNDUlwm?usp=drive_link)
-> Гибридный генератор изображений, объединяющий стабильность VAE и качество генерации StyleGAN
-> 
-> **Стек:** `PyTorch` `TensorFlow` `OpenCV` `NumPy`
-> 
-> **Особенности:** Обучение на WikiArt, кастомный пайплайн аугментации
+#### [VAE-StyleGAN Hybrid Generator](https://colab.research.google.com/drive/1hU9d7LN1YQWt2w6TcFbyAWkecWNDUlwm?usp=drive_link)
+> Hybrid image generator combining VAE stability with StyleGAN generation quality
+>
+> **Stack:** `PyTorch` `TensorFlow` `OpenCV` `NumPy`
+>
+> **Features:** Training on WikiArt, custom augmentation pipeline
 
-#### 💬 [Multi-Platform AI Chat](https://github.com/Saverof/AIChatFlutter)
-> Кроссплатформенное приложение для работы с 50+ LLM через OpenRouter API
-> 
-> **Стек:** `FastAPI` `WebSockets` `OpenRouter API` `SQLite` `Dart`
-> 
-> **Особенности:** История диалогов, кеширование, аналитика использования
+#### [Multi-Platform AI Chat](https://github.com/Saverof/AIChatFlutter)
+> Cross‑platform application for working with 50+ LLMs via OpenRouter API
+>
+> **Stack:** `FastAPI` `WebSockets` `OpenRouter API` `SQLite` `Dart`
+>
+> **Features:** Chat history, caching, usage analytics
 
-#### 💻 [AI-Powered PC Configurator](https://colab.research.google.com/drive/1i0AxiReyLXTw_PMn8G7IRLHCTd4td0Qr?usp=drive_link)
-> ML-рекомендательная система для подбора комплектующих ПК
-> 
-> **Стек:** `Scikit-learn` `Flask` `Pandas`
-> 
-> **Особенности:** Бинарная классификация, feature engineering
+#### [AI-Powered PC Configurator](https://colab.research.google.com/drive/1i0AxiReyLXTw_PMn8G7IRLHCTd4td0Qr?usp=drive_link)
+> ML recommendation system for PC component selection
+>
+> **Stack:** `Scikit-learn` `Flask` `Pandas`
+>
+> **Features:** Binary classification, feature engineering
 
 ---
 
-### 📈 Активность
+### 📈 Activity
 
-<!-- Здесь можно добавить кастомную визуализацию или оставить пустым -->
+<!-- Здесь можно добавить кастомную визуализацию -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saverof&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
@@ -141,7 +127,7 @@ CPP_Engineer me;
 ---
 
 <p align="center">
-  <i>✨ Код — это поэзия, а алгоритмы — её ритм</i>
+  <i> Code is poetry, and algorithms are its rhythm</i>
 </p>
 
 <p align="center">

@@ -116,16 +116,6 @@ CPP_Engineer me;
 
 ---
 
-### Activity
-
-<!-- Здесь можно добавить кастомную визуализацию -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saverof&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
-</p>
-
----
-
 <p align="center">
   <i> Code is poetry, and algorithms are its rhythm</i>
 </p>
